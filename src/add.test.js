@@ -5,7 +5,7 @@ test('should ', () => {
     {
       description: 'shah',
       complete: true,
-      index: 1
-    }
-  ])
+      index: 1,
+    },
+  ]);
 });
